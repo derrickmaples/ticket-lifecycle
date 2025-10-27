@@ -47,64 +47,35 @@ As the Admin, view the ticket. Decide which agent will service the ticket (Mary 
 
 
 <p>
-Sign in as Mary Charles. She sees she has a new ticket. She reviews that ticket and also sees she needs to supply a backup laptop for Fred to work on while she inspect his current laptop. 
+Mary Charles signs in to osTicket. She sees she has a new ticket. She reviews that ticket and also sees she needs to supply a backup laptop for Fred to work on while she inspect his current laptop. Mary logs her work in the ticket tread as she goes.
 </p>
 <br />
 
 
 ![3-3](https://github.com/user-attachments/assets/fb672900-7172-41ea-a722-911e99281ab8)
-![3-3a](https://github.com/user-attachments/assets/ef072a66-971b-4358-853a-5635450b1879)
-![3-3b](https://github.com/user-attachments/assets/fc1ca400-d287-4eca-a7aa-c1ebcad51cd1)
+![3-3a](https://github.com/user-attachments/assets/f6d8b454-c1d7-41ff-9fce-510a1c10a424)
+![3-3b](https://github.com/user-attachments/assets/fd4cc938-c2b4-4d77-890a-d3a605f81e95)
+
 
 <p>
-Lorem ipsum dolor sit amet
+Mary inspects the laptop and the power adapter. She tries to turn on the laptop with a different adapter and it turns on. She concludes that the original adapter is faulty.
+</p>
+<br />
+
+
+![3-3c](https://github.com/user-attachments/assets/523ffe0a-ae41-473b-b08d-105a26d1e88c)
+
+
+<p>
+Mary returns the original laptop to Fred and helps transfer what he has worked on from the backup laptop to Fred's original laptop. She logs her work in the ticket thread and loses the ticket.
 </p>
 <br />
 
 
 <p>
-Lorem ipsum dolor sit amet
+Success!!!
 </p>
 <br />
 
 
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
+![3-5](https://github.com/user-attachments/assets/7ebc962a-6da0-4031-b860-8dfd7d07c6da)
