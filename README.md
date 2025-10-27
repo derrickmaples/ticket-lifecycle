@@ -72,6 +72,10 @@ Mary returns the original laptop to Fred and helps transfer what he has worked o
 <br />
 
 
+![3-4](https://github.com/user-attachments/assets/df6ac2ba-26f9-4d63-b3d8-514e73f40554)
+![3-4a](https://github.com/user-attachments/assets/8c6f3841-d6c7-4450-8a97-cc303c3eac85)
+
+
 <p>
 Success!!!
 </p>
