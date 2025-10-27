@@ -16,7 +16,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Ticket Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
@@ -25,13 +25,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-Lorem ipsum dolor sit amet
+Open a New Ticket from one of the created users (Fred Peterson in this case). He is having trouble getting his work laptop to turn on.
 </p>
 <br />
 
 
+![3-1](https://github.com/user-attachments/assets/88adea67-2784-4573-9ad2-d7be8c91203e)
+![3-1a](https://github.com/user-attachments/assets/2f6012ff-32de-4e7e-a56b-ead3cbc3f6d8)
+
+
 <p>
-Lorem ipsum dolor sit amet
+Sign in as one of the created agents (
 </p>
 <br />
 
